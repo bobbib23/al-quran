@@ -1,46 +1,28 @@
-# Getting Started with Create React App
+# Aplikasi Al-Quran Digital
+Projek ini saya buat menggunakan Reactjs dengan memakai bahasa pemrograman Typescript serta dikombinasikan dengan library Bootstrap.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image alquran](https://dirja.my.id/wp-content/uploads/2023/10/img-alquran.jpg)
 
-## Available Scripts
+Tujuan dari projek ini untuk menambah kemampuan saya dalam ngoding sekaligus menambah portfolio saya dalam dunia web developer terutama di bagian front end.
 
-In the project directory, you can run:
+## `Terdapat Bahasa Arab dan Bahasa Latin`
 
-### `yarn start`
+Dalam projek ini saya akan menampilkan kumpulan surat-surat Al-quran yang source saya dapat dari situs equran.id.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Di dalamnya ada potongan ayat-ayat Al-quran yang bisa dibaca oleh user baik dengan bahasa arab maupun dengan bahasa latin.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![image Alquran](https://dirja.my.id/wp-content/uploads/2023/10/img-alquran-3.jpg.png)
 
-### `yarn test`
+Dengan penggunaan bootstrap, projek ini baik digunakan melalui mobile maupun dekstop. Bahkan sangat membantu bagi kaum lansia yang ingin membaca Al-quran melalui smartphone karena saya atur teksnya berdasarkan hasil riset kenyamanan pengguna baik kaum muda maupun kaum lansia.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Untuk tampilan teks saya mendapat rekomendasi dari sesama programmer asal malang yang bernama Fajriyan Nur. Tak lupa saya ucapkan terima kasih kepada beliau yang sudah memberi izin projeknya saya pakai untuk belajar.
 
-### `yarn build`
+## `Terdapat Fitur Murottal Al Quran`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Selanjutnya, ada fitur tambahan pemutar mp3 yang bisa digunakan oleh pengguna untuk mendengarkan lantunan ayat suci Al-quran.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image alquran](https://dirja.my.id/wp-content/uploads/2023/10/img-alquran-2.jpg.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Untuk mengetahui lebih lanjut kelebihan dan kekurangan projek ini bisa anda gunakan source code yang ada di github ini. Bahkan saya izinkan bila ingin memakai projek ini untuk belajar bukan untuk dijual.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Kedepannya, projek ini tidak akan ada update di github. Tetapi untuk penyempurnaan projek ini bisa anda lihat di situs [Doa Islam](https://doaislam.my.id).
